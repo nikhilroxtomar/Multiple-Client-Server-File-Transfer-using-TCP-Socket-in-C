@@ -4,9 +4,10 @@ A simple file transfer program build on the top of TCP client server architectur
 ## Compile the program
 gcc server.c -o server <br/>
 gcc client.c -o client <br/>
-
 <br/>
-## Working
+
+## Working 
+<br/>
 1. Run the server program. <br/>
 2. Run the client program. <br/>
 3. Type LIST command to list the files in the `server_files` directory. <br/>
