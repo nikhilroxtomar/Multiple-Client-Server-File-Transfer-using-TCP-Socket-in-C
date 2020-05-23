@@ -12,6 +12,6 @@ gcc client.c -o client <br/>
 2. Run the client program. <br/>
 3. Type LIST command to list the files in the `server_files` directory. <br/>
 4. Type LOAD `filename` to download the file from the server and save it to the `client_files` directory. <br/>
+<br/>
 
-<br/> <br/>
 Do not change the name of the files present in the `server_files` directory.
