@@ -14,4 +14,5 @@ gcc client.c -o client <br/>
 4. Type LOAD `filename` to download the file from the server and save it to the `client_files` directory. <br/>
 <br/>
 
-Do not change the name of the files present in the `server_files` directory.
+### NOTE: 
+Do not change the name of the files present in the `server_files` directory. The server and the client program use the names of these files and also do not add any more file as it will not work.
